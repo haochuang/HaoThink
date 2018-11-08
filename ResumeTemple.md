@@ -81,10 +81,10 @@ xxx开发经验xx年，独立设计实现过多个公司线上项目。xx大学�
 
 ## 开源项目
 
- - [vincenth520/pinche_xcx](https://github.com/vincenth520/pinche_xcx)：同城拼车小程序，全栈开发,独自完成前台后台的制作对接,实现用户自助发布拼车信息，实现自动化预约拼车功能 
- - [vincenth520/pinche_xcx_data](https://github.com/vincenth520/pinche_xcx_data)：同城拼车小程序thinkphp版后端 
- - [vincenth520/opencart_Extensions](https://github.com/vincenth520/opencart_Extensions)：opencart扩展插件 
- - [vincenth520/pinche_xcx_data_vip](https://github.com/vincenth520/pinche_xcx_data_vip)：同城拼车小程序laravel版后端 
+ - [vincenth520/pinche_xcx](https://github.com/vincenth520/pinche_xcx)：xxxx产品介绍小程序，全栈开发,独自完成前台后台的制作对接,实现xx功能 
+ - [vincenth520/pinche_xcx_data](https://github.com/vincenth520/pinche_xcx_data)：xxxx产品介绍小程序，小程序thinkphp版后端 
+ - [vincenth520/opencart_Extensions](https://github.com/vincenth520/opencart_Extensions)：xxxx扩展插件 
+ - [vincenth520/pinche_xcx_data_vip](https://github.com/vincenth520/pinche_xcx_data_vip)：xxx小程序laravel版后端 
  
 ---
 # 技能清单
