@@ -11,7 +11,7 @@
 
 - 本科/XX大学计算机科学学院XXXX专业 
 - 工作年限：x年
-- Github：https://github.com/nianhuaiju
+- Github：https://github.com/xxxxx
 - 期望职位：xx工程师
 
 ---
