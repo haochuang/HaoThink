@@ -1,17 +1,19 @@
-- 8 月份 GitHub 上最热门的JavaScript项目排行已经出炉啦，在本月的名单中，又有哪些热门的新项目加入呢？一起来看看：
+## 1 
+
+8 月份 GitHub 上最热门的JavaScript项目排行已经出炉啦，在本月的名单中，又有哪些热门的新项目加入呢？一起来看看：
 
 
-- 1 windows95
+### 1 windows95
 
-[https://github.com/felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)     
+* [https://github.com/felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)     
 
-Star 10541
+* Star 10541
 
-- 2018年8月份GitHub上最热门的JavaScript开源项目
+2018年8月份GitHub上最热门的JavaScript开源项目
 
-- 一个带有微软Windows 95操作系统的Electron应用程序，你可以在Linux、Mac、甚至Windows电脑上运行。根据开发人员Felix Rieseberg的说法，无论你目前使用何种操作系统，在安装和运行新的Electron应用程序后，您都将获得完整的Windows 95体验。
+一个带有微软Windows 95操作系统的Electron应用程序，你可以在Linux、Mac、甚至Windows电脑上运行。根据开发人员Felix Rieseberg的说法，无论你目前使用何种操作系统，在安装和运行新的Electron应用程序后，您都将获得完整的Windows 95体验。
 
-- 2 javascript-algorithms
+### 2 javascript-algorithms
 
 [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
@@ -19,14 +21,14 @@ Star 35700
 
 - 用JavaScript实现的算法和数据结构，每个算法和数据结构都有自己独立的自述文件，其中包含相关说明和链接，供进一步阅读（包括YouTube视频）。
 
-- 3 taskbook
+### 3 taskbook
 [https://github.com/klauscfhq/taskbook](https://github.com/klauscfhq/taskbook)
 
 Star 4763
 
 - 本应用通过使用简单且最小化的语法，以及平坦的学习曲线，使您可以在终端内跨多个板块，有效地管理任务和笔记。所有数据都以原子方式写入存储，以防止损坏，并且永远不会与任何第三方共享。已删除的条目会自动存档，并且可以随时被检查或恢复。
 
-- 4 vue
+### 4 vue
 
 [https://github.com/vuejs/vue](https://github.com/vuejs/vue)
 
@@ -34,17 +36,13 @@ Star 112524
 
 - Vue.js 是构建 Web 界面的 JavaScript 库，提供数据驱动的组件，还有简单灵活的 API，使得 MVVM 更简单。主要特性：
 
--  ● 可扩展的数据绑定
+*  ● 可扩展的数据绑定
+*  ● 将普通的 JS 对象作为 model
+*  ● 简洁明了的 API
+*  ● 组件化 UI 构建
+*  ● 配合别的库使用
 
--  ● 将普通的 JS 对象作为 model
-
--  ● 简洁明了的 API
-
--  ● 组件化 UI 构建
-
--  ● 配合别的库使用
-
-- 5 mdx-deck
+###  5 mdx-deck
 
 [https://github.com/jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)
 
@@ -54,7 +52,7 @@ Star 4607
 
 基于MDX的演示平台
 
-- 6 apexcharts.js
+### 6 apexcharts.js
 
 [https://github.com/apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
 
@@ -64,7 +62,7 @@ Star 3712
 
 ApexCharts.JS 是一个现代化 JavaScript 图表库，用于使用简单的 API 构建交互式图表和可视化。
 
-- 7 puppeteer-recorder
+### 7 puppeteer-recorder
 
 [https://github.com/checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
 
@@ -72,19 +70,14 @@ Star 3038
 
 - Puppeteer Recorder 是Chrome扩展程序，可记录你的浏览器交互并生成Puppeteer脚本。具有以下功能：
 
-- ● 记录点击次数并输入事件。
+* ● 记录点击次数并输入事件。
+* ● 添加waitForNavigation，setViewPort和其他有用的子句。
+* ● 生成一个Puppeteer脚本。
+* ● 显示正在记录的事件。
+* ● 复制到剪贴板。
+* ● 提供配置选项。
 
-- ● 添加waitForNavigation，setViewPort和其他有用的子句。
-
-- ● 生成一个Puppeteer脚本。
-
-- ● 显示正在记录的事件。
-
-- ● 复制到剪贴板。
-
-- ● 提供配置选项。
-
-- 8 react
+### 8 react
 
 [https://github.com/facebook/react](https://github.com/facebook/react)
 
@@ -92,7 +85,7 @@ Star 10986
 
 React是Facebook开发的用于构建用户界面的JavaScript库，现已为很多公司所用，因为它采用了一种不同的方式来构建应用：借助于React，开发者可以将应用分解为彼此解耦的独立组件，这样就可以独立维护并迭代各种组件了。
 
-- 9 terminalizer
+### 9 terminalizer
 
 [https://github.com/faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 
@@ -100,7 +93,7 @@ Star 5569
 
 一个在终端下录屏并生成gif动画的项目很强大，还可以在生成时添加水印，项目是基于Node.js
 
-- 10 F2
+### 10 F2
 
 [https://github.com/antvis/f2](https://github.com/antvis/f2)
 
@@ -108,7 +101,7 @@ Star 3633
 
 F2是为移动设备而生，为开发人员和设计人员开发。它是基于Html5 Canvas的，并且还与Node.js，Weex和React Native兼容。根据图形语法，F2提供了您需要的所有图表类型。我们的移动设计指南可为移动可视化项目提供更好的用户体验。
 
-- 11 ice
+### 11 ice
 
 [https://github.com/alibaba/ice](https://github.com/alibaba/ice)
 
