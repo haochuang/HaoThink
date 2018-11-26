@@ -30,7 +30,8 @@ remote: GitLab: You are not allowed to push code to protected branches on this p
 参考页面:http://118.24.153.82:9080/bugu/bn-android/settings/repository
 
 
-![git-config](/uploads/26a3ccdc71254d8ab13f1058cd7bbc45/git-config.png)
+![git-config](https://github.com/haochuang/HaoThink/blob/master/git-config.png)
+
 http://118.24.153.82:9080/ops/ci/uploads/26a3ccdc71254d8ab13f1058cd7bbc45/git-config.png
 
 其他更多可参考如下帮助信息:
