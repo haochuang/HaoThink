@@ -1,0 +1,40 @@
+# gitlab push失败问题处理办法
+
+## 问题现象
+新建的Project,push时候,会存在问题,报错导致提交失败;
+
+## 报错信息
+
+报错信息如下:
+
+
+```
+google:bn-android Eric$ git push
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 263 bytes | 263.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote: GitLab: You are not allowed to push code to protected branches on this project.
+To http://118.24.153.82:9080/bugu/bn-android.git
+! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'http://118.24.153.82:9080/bugu/bn-android.git'
+
+remote: GitLab: You are not allowed to push code to protected branches on this project.
+```
+
+## 问题原因:
+
+新创建的peoject,默认是protect状态,会导致push问题,需要去掉该设置才可以.
+
+## 解决办法:
+*  进入项目设置中,修改项目设置,改为非保护状态
+参考页面:http://118.24.153.82:9080/bugu/bn-android/settings/repository
+
+
+![git-config](/uploads/26a3ccdc71254d8ab13f1058cd7bbc45/git-config.png)
+
+其他更多可参考如下帮助信息:
+* https://blog.csdn.net/f1370335844/article/details/60958553/
+* https://jingyan.baidu.com/article/066074d61272f5c3c21cb0d1.html
+
+
+-- record @2018-07-18
